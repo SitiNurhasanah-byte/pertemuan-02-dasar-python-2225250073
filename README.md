@@ -1,5 +1,7 @@
 Nama: Siti Nurhasanah
+
 NIM: 2225250073
+
 Kelas: 3B
 
 *Tujuan Repositori*
@@ -10,15 +12,36 @@ Tujuannya agar setiap program dapat dijalankan, diuji, dan dipelajari kembali de
 *Daftar dan Fungsi Berkas*
 
 Latihan/01_biodata.py → Menampilkan biodata sederhana berdasarkan input pengguna.
-
 Latihan/02_persegi_panjang.py → Menghitung luas dan keliling persegi panjang.
-
 Latihan/03_konversi_suhu.py → Mengubah suhu dari Celsius ke Fahrenheit dan Kelvin.
-
 tugas/kalkulator_koordinat.py → Menghitung jarak, perubahan, dan titik tengah antara dua titik koordinat.
 
 *Cara Menjalankan Program*
-Jalankan program dari terminal dengan perintah: python tugas/kalkulator_koordinat.py
+Jalankan program dari terminal dengan perintah:
+Latihan 1: python latihan/01_biodata.py
+Latihan 2: python latihan/02_persegi_panjang.py
+Latihan 3: python latihan/03_konversi_suhu.py
+Latihan 4: python latihan/04_nilai_akhir.py
+Tugas Utama: python tugas/kalkulator_koordinat.py
+
+Hasil Tiga Test Case Wajib (Kalkulator Koordinat)
+Kasus 1  
+Titik A: (0, 0)
+Titik B: (3, 4)
+Jarak: 5.00
+Titik Tengah: (1.50, 2.00)
+
+Kasus 2  
+Titik A: (-2, 1)
+Titik B: (4, 1)
+Jarak: 6.00
+Titik Tengah: (1.00, 1.00)
+
+Kasus 3  
+Titik A: (2.5, -1)
+Titik B: (2.5, 3)
+Jarak: 4.00
+Titik Tengah: (2.50, 1.00)
 
 *Refleksi Mahasiswa*
 
